@@ -1,7 +1,7 @@
 # RMSD
 Implementation of the c-RMSD and d-RMSD algorithms
 
-Given are 80 conformations of a specific molecule in file \80 conformations.txt" with n = 369 atoms on the backbone (hence in correspondence). The file starts with 2 lines containing 80 and n. The rest of the file uses tabs to define 3 columns containnig n triplets x y z of each conformation hence 2 + 80n rows:
+Given are 80 conformations of a specific molecule in file "80 conformations.txt" with n = 369 atoms on the backbone (hence in correspondence). The file starts with 2 lines containing 80 and n. The rest of the file uses tabs to define 3 columns containnig n triplets x y z of each conformation hence 2 + 80n rows:
     
 80  
 369  
