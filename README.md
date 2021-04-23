@@ -14,4 +14,4 @@ Given are 80 conformations of a specific molecule in file \80 conformations.txt"
 2. Compute the c-RMSD distances between all pairs of conformations. Compute the mean and median c-RMSD distance and draw a histogram of all distances in 10 classes.  
 3. Repeat (2) for d-RMSD using all k = distances within each conformation, or a random subset of k = 3n distances.  
 
-$\binom{n}{k}$
+- <img src="https://latex.codecogs.com/gif.latex? $\binom{n}{k}$ " />
